@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/boletin1/ejercicio1.java" line="21" />
+    <bookmark url="file://$PROJECT_DIR$/src/boletin1/ejercicio01.java" line="21" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64dd1a48-b61f-4a18-a203-ad392d1dd0d3" name="Default Changelist" comment="" />
+    <list default="true" id="64dd1a48-b61f-4a18-a203-ad392d1dd0d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/boletin1/ejercicio02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boletin1/ejercicio03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boletin1/ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boletin1/ejercicio01.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,23 +50,55 @@
     <session id="2015223272">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="1" />
+          <entry key="java" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2638" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2638" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/boletin1/ejercicio1.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/boletin1/ejercicio02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+            <state relative-caret-position="1574">
+              <caret line="129" column="71" selection-start-line="129" selection-start-column="71" selection-end-line="129" selection-end-column="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/boletin1/ejercicio03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,14 +121,18 @@
         <option value="D:/Teclado.java" />
         <option value="$PROJECT_DIR$/src/teclado/Teclado.java" />
         <option value="$PROJECT_DIR$/src/boletin1/ejercicio1.java" />
+        <option value="$PROJECT_DIR$/src/boletin1/ejercicio01.java" />
+        <option value="$PROJECT_DIR$/src/boletin1/wad.java" />
+        <option value="$PROJECT_DIR$/src/boletin1/ejercicio02.java" />
+        <option value="$PROJECT_DIR$/src/boletin1/ejercicio03.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="151" />
-    <option name="y" value="-10" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="256" />
+    <option name="y" value="-8" />
     <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="height" value="998" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -98,7 +140,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -121,12 +162,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537627340434" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537637044240" />
     <property name="last_opened_file_path" value="D:/Teclado.java" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -145,9 +188,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="ejercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boletin1.ejercicio1" />
+  <component name="RunManager" selected="Application.ejercicio02">
+    <configuration name="ejercicio01" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boletin1.ejercicio01" />
       <module name="AD" />
       <extension name="coverage">
         <pattern>
@@ -159,9 +202,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ejercicio02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boletin1.ejercicio02" />
+      <module name="AD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="boletin1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boletin1.wad" />
+      <module name="AD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="boletin1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ejercicio01" />
+      <item itemvalue="Application.ejercicio02" />
+      <item itemvalue="Application.wad" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ejercicio1" />
+        <item itemvalue="Application.ejercicio02" />
+        <item itemvalue="Application.wad" />
       </list>
     </recent_temporary>
   </component>
@@ -179,10 +254,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18123667" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18283582" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -191,15 +265,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3295082" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286334" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.329718" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -225,10 +299,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/boletin1/ejercicio1.java">
+    <entry file="file://$PROJECT_DIR$/src/boletin1/ejercicio01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        <state relative-caret-position="289">
+          <caret line="19" column="51" lean-forward="true" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/boletin1/wad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="70" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/boletin1/ejercicio02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1574">
+          <caret line="129" column="71" selection-start-line="129" selection-start-column="71" selection-end-line="129" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/boletin1/ejercicio03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
