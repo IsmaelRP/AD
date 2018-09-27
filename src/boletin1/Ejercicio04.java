@@ -7,7 +7,7 @@ import java.io.File;
 import java.io.FileFilter;
 import java.io.FilenameFilter;
 
-public class ejercicio04 {
+public class Ejercicio04 {
 
     public static void main (String [ ] args) {
 

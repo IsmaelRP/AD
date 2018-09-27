@@ -4,7 +4,7 @@ import teclado.Teclado;
 
 import java.io.File;
 
-public class ejercicio03 {
+public class Ejercicio03 {
 
     public static void main(String[] args) {
 

@@ -5,7 +5,7 @@ import teclado.Teclado;
 import java.io.File;
 import java.io.IOException;
 
-public class ejercicio02 {
+public class Ejercicio02 {
 
     public static void main(String[] args) {
 
