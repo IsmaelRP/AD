@@ -13,26 +13,25 @@ public class ejercicio04 {
 
         String dir;
         String ext;
-        final String ext_Final;
         File file;
         File[] files;
         FilenameFilter filter;
 
         System.out.printf("Introduzca el nombre de un directorio: ");
         dir = Teclado.leerString();
-        dir = "C:\\Users\\pc\\IdeaProjects\\AD\\src\\boletin1\\" + dir;
+        dir = "C:\\Users\\Usuario\\IdeaProjects\\AD\\src\\boletin1\\" + dir;
 
         file = new File(dir);
 
         System.out.printf("Introduzca una extensión: ");
         ext = Teclado.leerString();
-        ext_Final = "." + ext;
+
 
         filter = new FilenameFilter() {
             @Override
             public boolean accept(File directory, String name) {
                 boolean result = false;
-                if (name.toLowerCase().endsWith(ext_Final)) {
+                if (name.toLowerCase().endsWith(ext)) {
                     result = true;
                 }
                 return result;

@@ -22,7 +22,7 @@ public class ejercicio01 {
             System.out.printf("El archivo \"%s\" no existe ",aux);
         }
 
-        
+
     }
 
 }

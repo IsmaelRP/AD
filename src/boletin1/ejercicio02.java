@@ -26,7 +26,7 @@ public class ejercicio02 {
         System.out.printf("Introduzca el nombre del directorio: ");
 
         folder = Teclado.leerString();
-        folder = "C:\\Users\\pc\\IdeaProjects\\AD\\src\\boletin1\\" + folder;
+        folder = "C:\\Users\\Usuario\\IdeaProjects\\AD\\src\\boletin1\\" + folder;
 
         fileFolder = new File(folder);
 
