@@ -98,21 +98,15 @@ public class Ejercicio05 {
             try {
                 reader = new BufferedReader(new FileReader(file1));
                 print = new PrintWriter(new FileWriter(file2));
-                while (reader.read() != -1) {
-                    bufferDim ++;
+
+                buffer = new char[10];
+
+                while((reader.read(buffer)) != -1){
+                    print.write(buffer);
                 }
+
                 reader.close();
-                buffer = new char[bufferDim];
-                reader = new BufferedReader(new FileReader(file1));
-
-                for (int i=0;i<buffer.length;i++){
-                    buffer[i] = (char) reader.read();
-                }
-                reader.close();
-
-                print.print(buffer);
-                print.flush();
-
+                print.close();
 
             } catch (FileNotFoundException e) {
                 System.out.printf("No se ha encontrado el fichero");
